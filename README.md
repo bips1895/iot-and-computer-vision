@@ -1,2 +1,1 @@
-# iot-and-computer-vision
-abc
+# color-identification-in-image
